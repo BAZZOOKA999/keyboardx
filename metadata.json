@@ -1,0 +1,6 @@
+{
+  "name": "KeyBoardX",
+  "description": "Teclado Android inteligente, rápido e seguro com suporte a digitação, temas, modo Termux, tradução e produtividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

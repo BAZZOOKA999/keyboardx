@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeyBoardX</string>
+    <string name="ime_name">KeyBoardX</string>
+    <string name="subtype_pt_br">Português (Brasil)</string>
+    <string name="subtype_en_us">English (US)</string>
+    <string name="subtype_es_es">Español</string>
+</resources>
