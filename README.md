@@ -28,7 +28,7 @@ Requer **Android 7.0 ou superior**. O APK é uma versão de teste assinada com c
 
 O GitHub Actions compila o APK e executa os testes existentes a cada atualização da branch `main`. O arquivo é publicado em Releases e nos artefatos da execução.
 
-Para compilar localmente, use Java 17, Android SDK e Gradle 9.3.1. Crie `debug.keystore` na raiz com alias `androiddebugkey` e senhas `android`, depois execute:
+Para compilar localmente, use Java 21, Android SDK e Gradle 9.3.1. Crie `debug.keystore` na raiz com alias `androiddebugkey` e senhas `android`, depois execute:
 
 ```sh
 gradle assembleDebug testDebugUnitTest
